@@ -27,3 +27,5 @@ scikit-image
 # this is a workaround to the issue.
 pillow==4.1.1
 wget
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
